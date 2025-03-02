@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- Hi!, Im Brian Alexander.👾
+ Hi!, Im Brian Amparo👾
 
 # 💫 About Me:
 🔭 I’m currently working on <br>🌱 I’m currently learning React and Angular libraries.<br>💬 Ask me about my code and projects.<br>
