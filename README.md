@@ -6,7 +6,7 @@
 🔭 I’m currently working on web development.<br>
 🌱 I’m currently learning React and Angular libraries.<br>
 💬 Ask me about my code and projects.<br>
-💻 I have 4 years of experience in software development.
+💻 I have 6 years of experience in software development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/briandevelop/) 
