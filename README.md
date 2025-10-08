@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently working on web development.<br>
-🌱 I’m currently learning React and Angular libraries.<br>
+🌱 I’m currently learning LLM & ML.<br>
 💬 Ask me about my code and projects.<br>
 💻 I have 6 years of experience in software development.
 
